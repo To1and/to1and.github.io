@@ -36,7 +36,7 @@ Do certain words appear more frequently in movie titles and descriptions? It see
     
 ![png](assets\images\output_15_0.png)
     
-The word cloud visualizes the most frequently used words in movie titles, with the size of each word reflecting its frequency. The word **Man** and **Day** tops the list of most frequently used words in movie titles, followed by **Night**, **Love**, and **MOvie**. This trend underscores the pervasive theme of daily life in movies.
+The word cloud visualizes the most frequently used words in movie titles, with the size of each word reflecting its frequency. The word **Man** and **Day** tops the list of most frequently used words in movie titles, followed by **Night**, **Love**, and **Movie**. This trend underscores the pervasive theme of daily life in movies.
     
 ![png](assets\images\output_17_0.png)
 
@@ -56,7 +56,7 @@ Above is just a summary of the overall data. Now we're moving on to a more inter
 
 Surprisingly, possibly contrary to the real world, **man** and **men** spent more money if they appear in a movie title, suggesting that high-budget films often focus on key male character and individual heroism. 
 
-And accordingly **man** also makes a lot of money along with the word **star**, revealing audience preferences for films. I think this makes sense, given that Star Wars is an extremely successful series with many installments. 
+And accordingly **star** also makes a lot of money along with the word **man**, revealing audience preferences for films. I think this makes sense, given that Star Wars is an extremely successful series with many installments. 
 
 As for the return rate, aside from **man** and **star**, it's hard not to notice the words **Harry** and **Potter**, as very few other movies would include these two words. This further confirms the immense commercial success of Harry Potter, which could be one of the most successful movie series in history. Is that the case? Please be patient, we'll reveal more to you later.
 
