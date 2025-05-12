@@ -11,7 +11,7 @@ _Jia Wei_  - s233486
 
 Group 15
 
-Our website : https://to1and.github.io/
+Our website : https://github.com/To1and/to1and.github.io/blob/main/notebook/Final%20Project.ipynb
 
 ## Motivation
 
