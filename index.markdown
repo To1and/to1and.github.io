@@ -162,7 +162,7 @@ Although we may already know that a commercially successful film will not necess
     
 
 
-In all of the above graphs, we can generally find that costs and benefits do not show a positive or negative correlation with ratings, and that the vast majority of films fall within a range of about four to eight. In the graph about returns we can again recognise that the vast majority of more commercially successful films do not receive a lower rating, but very high ratings do not imply extremely high returns either. This could mean that the most commercially acceptable films are more likely to have a higher return on investment, in short, a film that makes money is not necessarily of high artistic merit.
+In all of the above graphs, we can generally find that costs and benefits do not show a positive or negative correlation with ratings, and that the vast majority of films fall within a range of about four to eight. In the graph about returns we can again recognise that the vast majority of more commercially successful films do not receive a higher rating, but very high ratings do not imply extremely high returns either. This could mean that the most commercially acceptable films are more likely to have a higher return on investment, in short, a film that makes money is not necessarily of high artistic merit.
 
 At this point, we can try to filter out the film entries with less than 1000 votes and graph them again to see how the relatively more famous films perform
 
@@ -237,7 +237,9 @@ So, are films more profitable now? Not really. Even though the earlier graphs sh
 
 <iframe src='assets\images\budget_revenue_timeline' width='700px' height='600px'></iframe>
 
-The "Interactive Cumulative Timeline (Budget vs Revenue)" graph shows how films have evolved from 1915 to 2017. Picture the early days around 1915—budgets were tiny, often under $100,000, and revenues were just as small, barely hitting a million dollars. The graph starts with a few scattered dots, showing that only a handful of movies made any money back then.
+The "Interactive Cumulative Timeline" graph shows how films have evolved from 1915 to 2017. You can mouse over the points in the chart to see a very specific movie and its revenues and expenses as well as the release date.
+
+Picture the early days around 1915—budgets were tiny, often under $100,000, and revenues were just as small, barely hitting a million dollars. The graph starts with a few scattered dots, showing that only a handful of movies were made back then.
 
 As we slide the timeline to the 1950s and 1960s, more dots appear, and budgets start creeping up to around $1 million or $2 million. Revenues grow too, sometimes reaching $10 million for the lucky films. It’s like the movie industry was waking up, with more people making and watching films. By the 1970s and 1980s, the graph gets busier—budgets hit $5 million to $10 million, and revenues climb higher, with some movies earning over $100 million. The dots start clustering, showing a growing number of big-budget films.
 
