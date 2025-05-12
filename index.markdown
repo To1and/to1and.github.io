@@ -92,7 +92,9 @@ Unsurprisingly, the majority of movies in our existing data are produced in the 
 
 We can see that even though the United States produces the most films, their average production cost is still not the highest. 
 
-Australia, with a much smaller output of films, stands out with the highest average production cost at $9.5 million per film, while its average revenue reaches $20.5 million per film. This indicates that Australian films, though fewer in number, are often high-investment projects that yield substantial returns.
+Australia, with a much smaller output of films, stands out with the highest average production cost at $9.5 million per film, while its average revenue reaches $20.5 million per film. This indicates that Australian films, though fewer in number, are often high-investment projects that yield substantial returns. The United Kingdom follows with a budget of $6.4 million and revenue of $17.9 million, a profit of about $11.4 million per film.
+
+Other countries like Canada ($5.2 million budget, $10.4 million revenue) and France ($3.1 million budget, $5.1 million revenue) show smaller profits of $52.2 million and $19.9 million per film, respectively. Countries with lower budgets, like India ($2.8 million budget, $3.9 million revenue), have even smaller profits of about $1.1 million per film.
 
 In contrast, the United States has the highest average revenue per film worldwide, with an average revenue of $22.52 million per film and an average production cost of about $8.14 million. This might be a little-known fact because Australia's film industry isn't very well-known.
 
@@ -209,12 +211,34 @@ Let me start by looking at the trends in film revenues and costs over time
     
 
 
-It is quite common sense to see that the costs and revenues of the film industry are gradually increasing as time changes. But what about the profitability of films?
+It is quite common sense to see that the costs and revenues of the film industry are gradually increasing as time changes. 
+
+Once upon a time, in the early days of cinema around the 1920s, making movies was a small business. The graph for "Average Budget Over Time" shows that budgets were super low, mostly staying below $0.5 million USD. There was a tiny spike in the 1920s, maybe because of a big silent film, but then it stayed quiet for a long time. This tells us that back then, films didn’t need huge money to get made.
+
+Fast forward to the 1960s and 1970s, and things started to change a little. Budgets began to creep up, with some movies costing around $1 million or more. But the real jump happened after the 1990s! The graph shows a massive rise, with budgets shooting up to over $3.5 million by 2020. This means filmmakers were spending a lot more to create movies, probably because of fancy special effects and big stars.
+
+Now, let’s look at the "Average Revenue Over Time" graph. In the early years, revenue was almost nothing, just like the budgets. But starting in the 1980s, it started to grow, and by the 2000s, it exploded! Revenues reached over $2 million USD, showing that movies were making a lot more money than before.
+
+Even though budgets have gone way up, revenues have grown even faster, especially since the 2000s. This suggests that modern movies, with their big budgets, are bringing in bigger profits compared to the old days when both costs and earnings were low.
+
+But what about the profitability of films?
 
     
 ![png](assets\images\output_76_0.png)
  
 
-In fact, we would be very surprised to find that after the 1960s, when the film industry was gradually maturing, the return on investment for films did not change much, and even fell overall in recent years.
+Back in the 1920s, the return rate for movies was wild—sometimes jumping as high as 40%! This means that for every dollar spent, some movies made a lot more money back then. But it wasn’t steady; the graph shows big ups and downs, with many films barely making any profit.
+
+As we move to the 1940s and 1950s, the return rate stayed shaky, with some movies hitting 20% or 30%, but most were much lower. It was like a rollercoaster—some films did great, while others didn’t make much. Then, around the 1970s, things started to get more crowded. The graph gets super dense, showing lots of movies being made, but the return rates were still all over the place, mostly staying below 20%.
+
+By the 2000s and 2010s, the return rates are still jumping between 0% and 50%, but most movies seem to cluster closer to the lower end, around 10% to 20%. This tells us that while some films still made huge profits, most movies weren’t as profitable as the lucky ones from the early days.
+
+So, are films more profitable now? Not really. Even though the earlier graphs showed that revenues are much higher today, this return rate graph shows that profits compared to budgets haven’t grown much. In the past, a small budget could lead to a massive return, like 40%. Now, even with bigger budgets and revenues, the return rate is often lower, meaning the profit margin isn’t as good. Movies today might make more money, but they’re not always more profitable!
 
 <iframe src='assets\images\budget_revenue_timeline' width='700px' height='600px'></iframe>
+
+The "Interactive Cumulative Timeline (Budget vs Revenue)" graph shows how films have evolved from 1915 to 2017. Picture the early days around 1915—budgets were tiny, often under $100,000, and revenues were just as small, barely hitting a million dollars. The graph starts with a few scattered dots, showing that only a handful of movies made any money back then.
+
+As we slide the timeline to the 1950s and 1960s, more dots appear, and budgets start creeping up to around $1 million or $2 million. Revenues grow too, sometimes reaching $10 million for the lucky films. It’s like the movie industry was waking up, with more people making and watching films. By the 1970s and 1980s, the graph gets busier—budgets hit $5 million to $10 million, and revenues climb higher, with some movies earning over $100 million. The dots start clustering, showing a growing number of big-budget films.
+
+Fast forward to the 2000s and 2010s, and the graph explodes with color! Budgets soar to $350 million, painted in bright yellow and orange, while revenues reach billions, with dots stretching up to $10 billion. The colors show how budgets have gotten huge—dark purple for $50 million, red for $200 million, and yellow for $350 million. It’s like a fireworks show of money, with blockbuster movies dominating the scene.
